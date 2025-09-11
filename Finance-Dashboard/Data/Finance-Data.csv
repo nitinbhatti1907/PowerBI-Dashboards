@@ -1,1 +1,100 @@
-
+Type,Component,Date,Amount,Year
+Income,Salary,Dec-2024,"$1,600.00",2024
+Income,GIC,Dec-2024,"$6,220.64",2024
+Income,Fixed F&O Return,Dec-2024,$0.00,2024
+Savings,F&O - FD,Dec-2024,$0.00,2024
+Savings,ETF,Dec-2024,$0.00,2024
+Expense,House Rent,Dec-2024,$593.00,2024
+Expense,Groceries & Food,Dec-2024,$74.17,2024
+Expense,Health,Dec-2024,$0.00,2024
+Expense,EMIs,Dec-2024,$0.00,2024
+Expense,Internet Bill,Dec-2024,$46.66,2024
+Expense,Miscellaneous,Dec-2024,$152.00,2024
+Income,Salary,Jan-2025,$92.80,2025
+Income,GIC,Jan-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Jan-2025,$0.00,2025
+Savings,F&O - FD,Jan-2025,$0.00,2025
+Savings,ETF,Jan-2025,$0.00,2025
+Expense,House Rent,Jan-2025,$400.00,2025
+Expense,Groceries & Food,Jan-2025,$69.70,2025
+Expense,Health,Jan-2025,$0.00,2025
+Expense,EMIs,Jan-2025,"$4,500.00",2025
+Expense,Internet Bill,Jan-2025,$45.20,2025
+Expense,Miscellaneous,Jan-2025,$209.89,2025
+Income,Salary,Feb-2025,$223.11,2025
+Income,GIC,Feb-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Feb-2025,$0.00,2025
+Savings,F&O - FD,Feb-2025,$0.00,2025
+Savings,ETF,Feb-2025,$0.00,2025
+Expense,House Rent,Feb-2025,$400.00,2025
+Expense,Groceries & Food,Feb-2025,$66.13,2025
+Expense,Health,Feb-2025,$0.00,2025
+Expense,EMIs,Feb-2025,"$3,100.00",2025
+Expense,Internet Bill,Feb-2025,$20.20,2025
+Expense,Miscellaneous,Feb-2025,$0.00,2025
+Income,Salary,Mar-2025,"$1,763.35",2025
+Income,GIC,Mar-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Mar-2025,$0.00,2025
+Savings,F&O - FD,Mar-2025,$0.00,2025
+Savings,ETF,Mar-2025,$0.00,2025
+Expense,House Rent,Mar-2025,$400.00,2025
+Expense,Groceries & Food,Mar-2025,$49.04,2025
+Expense,Health,Mar-2025,$0.00,2025
+Expense,EMIs,Mar-2025,"$2,500.00",2025
+Expense,Internet Bill,Mar-2025,$45.20,2025
+Expense,Miscellaneous,Mar-2025,$0.00,2025
+Income,Salary,Apr-2025,"$1,729.47",2025
+Income,GIC,Apr-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Apr-2025,$0.00,2025
+Savings,F&O - FD,Apr-2025,$0.00,2025
+Savings,ETF,Apr-2025,$0.00,2025
+Expense,House Rent,Apr-2025,$400.00,2025
+Expense,Groceries & Food,Apr-2025,$50.78,2025
+Expense,Health,Apr-2025,$0.00,2025
+Expense,EMIs,Apr-2025,"$2,800.00",2025
+Expense,Internet Bill,Apr-2025,$45.20,2025
+Expense,Miscellaneous,Apr-2025,$111.15,2025
+Income,Salary,May-2025,"$2,775.63",2025
+Income,GIC,May-2025,"$1,319.53",2025
+Income,Fixed F&O Return,May-2025,$0.00,2025
+Savings,F&O - FD,May-2025,$0.00,2025
+Savings,ETF,May-2025,$0.00,2025
+Expense,House Rent,May-2025,$400.00,2025
+Expense,Groceries & Food,May-2025,$34.31,2025
+Expense,Health,May-2025,$15.00,2025
+Expense,EMIs,May-2025,$0.00,2025
+Expense,Internet Bill,May-2025,$45.20,2025
+Expense,Miscellaneous,May-2025,$60.00,2025
+Income,Salary,Jun-2025,"$1,889.40",2025
+Income,GIC,Jun-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Jun-2025,$0.00,2025
+Savings,F&O - FD,Jun-2025,$0.00,2025
+Savings,ETF,Jun-2025,$0.00,2025
+Expense,House Rent,Jun-2025,$400.00,2025
+Expense,Groceries & Food,Jun-2025,$60.60,2025
+Expense,Health,Jun-2025,$0.00,2025
+Expense,EMIs,Jun-2025,$750.00,2025
+Expense,Internet Bill,Jun-2025,$45.20,2025
+Expense,Miscellaneous,Jun-2025,$51.81,2025
+Income,Salary,Jul-2025,"$2,044.89",2025
+Income,GIC,Jul-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Jul-2025,$0.00,2025
+Savings,F&O - FD,Jul-2025,$0.00,2025
+Savings,ETF,Jul-2025,$0.00,2025
+Expense,House Rent,Jul-2025,$670.00,2025
+Expense,Groceries & Food,Jul-2025,$100.85,2025
+Expense,Health,Jul-2025,$0.00,2025
+Expense,EMIs,Jul-2025,$410.61,2025
+Expense,Internet Bill,Jul-2025,$45.20,2025
+Expense,Miscellaneous,Jul-2025,$71.82,2025
+Income,Salary,Aug-2025,"$2,044.89",2025
+Income,GIC,Aug-2025,"$1,319.53",2025
+Income,Fixed F&O Return,Aug-2025,$0.00,2025
+Savings,F&O - FD,Aug-2025,$0.00,2025
+Savings,ETF,Aug-2025,$0.00,2025
+Expense,House Rent,Aug-2025,$670.00,2025
+Expense,Groceries & Food,Aug-2025,$100.85,2025
+Expense,Health,Aug-2025,$0.00,2025
+Expense,EMIs,Aug-2025,$410.61,2025
+Expense,Internet Bill,Aug-2025,$45.20,2025
+Expense,Miscellaneous,Aug-2025,$71.82,2025
