@@ -51,7 +51,8 @@ Each dashboard is organized as a portfolio-ready case study with its own report 
 ### Sales Insights Dashboard
 <img width="1255" height="653" alt="Sales Insights Dashboard" src="https://github.com/user-attachments/assets/2124b8ea-ec5f-4a98-a704-aa0a180e7c1e" />
 
-> A Pizza Sales dashboard preview will be added with the project files.
+### Pizza Sales Analysis
+![Pizza Sales Dashboard](./Pizza-Sales-Analysis/Images/Home.png)
 
 ---
 
