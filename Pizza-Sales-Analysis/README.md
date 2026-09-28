@@ -2,6 +2,14 @@
 
 An end-to-end sales analytics project built with **Microsoft SQL Server, SSMS, SQL, Power BI, and DAX** to analyze pizza sales performance, ordering trends, product mix, and best/worst-selling pizzas.
 
+## 📷 Dashboard Preview
+
+### Home
+![Pizza Sales Home Dashboard](./Images/Home.png)
+
+### Best vs Worst Sellers
+![Pizza Sales Best vs Worst Dashboard](./Images/Best%20VS%20Worst.png)
+
 ## 🎯 Project Objective
 
 The goal of this project is to turn transactional pizza sales data into decision-ready business insights. The analysis combines SQL-based validation with an interactive Power BI report so that KPIs and visual results can be checked against the underlying source data.
@@ -63,7 +71,7 @@ The Power BI report contains two pages:
 ### 1. Home
 Executive KPI and sales-performance overview, including trend and sales-mix analysis.
 
-### 2. Best/Worst Seller
+### 2. Best vs Worst Seller
 Product-level analysis highlighting the highest- and lowest-performing pizzas across revenue, quantity, and order count.
 
 ## 🔄 Analytics Workflow
@@ -102,6 +110,9 @@ Pizza-Sales-Analysis/
 ├── Pizza_Dashboard.pbix
 ├── Data/
 │   └── pizza_sales.csv
+├── Images/
+│   ├── Home.png
+│   └── Best VS Worst.png
 └── SQL/
     └── pizza_sales_analysis.sql
 ```
