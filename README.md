@@ -26,7 +26,6 @@ Each dashboard is organized as a portfolio-ready case study with its own report 
 - Analyzes **revenue, average order value, order trends, pizza category/size mix, and product performance**.
 - Includes **Top 5 / Bottom 5 pizzas** by revenue, quantity, and total orders.
 - Uses SQL analysis to validate Power BI KPIs and business logic.
-- Verified project KPIs include **$817.86K revenue**, **21,350 orders**, and **49,574 pizzas sold**.
 
 ---
 
@@ -43,16 +42,16 @@ Each dashboard is organized as a portfolio-ready case study with its own report 
 
 ---
 
-## 📷 Dashboard Previews
+## 📷 Screenshots
 
-### Finance Dashboard
+### Finance Dashboard  
 <img width="979" height="557" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/ef848aef-25fe-4228-8603-1a042415f3f5" />
 
-### Sales Insights Dashboard
+### Sales Insights Dashboard  
 <img width="1255" height="653" alt="Sales Insights Dashboard" src="https://github.com/user-attachments/assets/2124b8ea-ec5f-4a98-a704-aa0a180e7c1e" />
 
-### Pizza Sales Analysis
-![Pizza Sales Dashboard](./Pizza-Sales-Analysis/Images/Home.png)
+### Pizza Sales Analysis  
+<img width="1255" alt="Pizza Sales Home Dashboard" src="./Pizza-Sales-Analysis/Images/Home.png" />
 
 ---
 
