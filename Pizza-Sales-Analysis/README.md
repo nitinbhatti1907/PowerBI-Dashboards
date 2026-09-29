@@ -125,12 +125,6 @@ Pizza-Sales-Analysis/
 4. Update the local SQL Server connection if Power BI requests source credentials.
 5. Compare the dashboard KPIs with the SQL query outputs to validate the report.
 
-## 📚 Project Source
-
-This project was developed as a guided portfolio project based on the **Data Tutorials** YouTube walkthrough and then implemented locally using SQL Server 2025, SSMS, and Power BI.
-
-Tutorial: https://www.youtube.com/watch?v=V-s8c6jMRN0
-
 ## 🚀 Portfolio Value
 
 This project demonstrates an end-to-end BI workflow: translating business questions into SQL analysis, validating KPIs, building an interactive Power BI report, and communicating actionable sales insights.
