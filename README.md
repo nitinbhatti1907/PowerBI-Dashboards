@@ -29,9 +29,20 @@ Each dashboard is organized as a portfolio-ready case study with its own report 
 
 ---
 
+### ☁️ [Retail Insights | Azure ADF + ADLS Gen2](./Retail-Insights-Azure-ADF)
+- Cloud analytics project using **Azure Data Factory, ADLS Gen2, Power BI, Power Query, and DAX**.
+- Moves retail CSV source files through an **ADF pipeline** from an input layer to an output layer in Azure Data Lake Storage.
+- Analyzes **revenue, orders, customers, category/subcategory performance, cities, customer segments, products, and trends**.
+- Demonstrates cloud ingestion, BI modeling, DAX, and an end-to-end analytics workflow.
+
+---
+
 ## 🛠️ Tools & Skills Highlighted
 
 - Power BI Desktop
+- Azure Data Factory
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- Azure Storage
 - DAX (Data Analysis Expressions)
 - Microsoft SQL Server & SSMS
 - SQL
@@ -52,6 +63,9 @@ Each dashboard is organized as a portfolio-ready case study with its own report 
 
 ### Pizza Sales Analysis  
 <img width="1255" alt="Pizza Sales Home Dashboard" src="./Pizza-Sales-Analysis/Images/Home.png" />
+
+### Retail Insight Dashboard  
+<img width="1255" alt="Retail Insight Dashboard" src="./Retail-Insights-Azure-ADF/Images/Home.png" />
 
 ---
 
