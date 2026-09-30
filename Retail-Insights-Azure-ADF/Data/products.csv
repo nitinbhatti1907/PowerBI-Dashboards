@@ -1,0 +1,203 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,LaunchDate,Status,CreatedDate,UpdatedDate
+PROD0001,UrbanCarry Backpack,Accessories,Bags,Skybags,3499,2024-06-07,Active,2024-06-07,2024-06-22
+PROD0002,Metro Sling Bag,Accessories,Bags,Wildcraft,2499,2022-12-18,Active,2022-12-18,2023-04-28
+PROD0003,Classic Leather Belt,Accessories,Belts,Hidesign,1899,2022-10-18,Active,2022-10-18,2023-12-25
+PROD0004,Formal Buckle Belt,Accessories,Belts,Allen Solly,1299,2023-06-02,Active,2023-06-02,2024-07-21
+PROD0005,Aviator Sunglasses,Accessories,Sunglasses,Ray-Ban,9999,2022-02-13,Active,2022-02-13,2024-02-28
+PROD0006,Wayfarer Sunglasses,Accessories,Sunglasses,Fastrack,2999,2024-04-16,Active,2024-04-16,2024-06-04
+PROD0007,Slim Wallet,Accessories,Wallets,Tommy Hilfiger,2999,2022-07-31,Active,2022-07-31,2023-12-15
+PROD0008,Classic Wallet,Accessories,Wallets,Levi's,1799,2024-05-06,Active,2024-05-06,2024-08-09
+PROD0009,Galaxy A54,Electronics,Smartphones,Samsung,16999,2022-09-17,Active,2022-09-17,2023-08-30
+PROD0010,iPhone 14,Electronics,Smartphones,Apple,62999,2022-08-03,Active,2022-08-03,2024-05-18
+PROD0011,11R,Electronics,Smartphones,OnePlus,39999,2022-09-25,Active,2022-09-25,2024-10-05
+PROD0012,13C,Electronics,Smartphones,Xiaomi,14999,2021-05-18,Discontinued,2021-05-18,2022-02-21
+PROD0013,Inspiron 15,Electronics,Laptops,Dell,44999,2023-02-16,Active,2023-02-16,2024-10-13
+PROD0014,Pavilion x360,Electronics,Laptops,HP,52999,2024-01-03,Active,2024-01-03,2024-03-19
+PROD0015,IdeaPad Slim,Electronics,Laptops,Lenovo,44999,2022-08-11,Active,2022-08-11,2024-09-29
+PROD0016,VivoBook 15,Electronics,Laptops,Asus,39999,2023-10-10,Active,2023-10-10,2024-01-17
+PROD0017,Galaxy Tab A8,Electronics,Tablets,Samsung,18999,2024-05-19,Active,2024-05-19,2024-06-30
+PROD0018,iPad 10th Gen,Electronics,Tablets,Apple,44999,2023-03-07,Active,2023-03-07,2023-03-08
+PROD0019,Tab M10,Electronics,Tablets,Lenovo,9999,2021-12-07,Active,2021-12-07,2023-09-04
+PROD0020,OnePlus Pad Go,Electronics,Tablets,OnePlus,21999,2023-11-24,Active,2023-11-24,2024-02-09
+PROD0021,WH-1000XM5,Electronics,Headphones,Sony,24999,2021-03-26,Active,2021-03-26,2022-05-10
+PROD0022,Tour One,Electronics,Headphones,JBL,19999,2023-08-06,Active,2023-08-06,2024-03-11
+PROD0023,Rockerz 450,Electronics,Headphones,Boat,1799,2022-07-30,Active,2022-07-30,2022-11-07
+PROD0024,Buds Air3,Electronics,Headphones,Realme,2499,2021-12-14,Active,2021-12-14,2023-07-11
+PROD0025,Watch SE,Electronics,Smartwatches,Apple,34999,2022-06-06,Active,2022-06-06,2022-07-26
+PROD0026,Galaxy Watch6,Electronics,Smartwatches,Samsung,21999,2023-08-03,Active,2023-08-03,2024-06-27
+PROD0027,ColorFit Pro4,Electronics,Smartwatches,Noise,3499,2022-09-17,Active,2022-09-17,2024-04-29
+PROD0028,NoiseFit Halo,Electronics,Smartwatches,Noise,3999,2024-03-26,Active,2024-03-26,2024-08-27
+PROD0029,ErgoPlus Office Chair,Furniture,Chairs,Featherlite,8999,2021-12-29,Active,2021-12-29,2023-07-17
+PROD0030,Urban Mesh Chair,Furniture,Chairs,Green Soul,8999,2021-11-17,Active,2021-11-17,2024-09-19
+PROD0031,Executive Pro Chair,Furniture,Chairs,,19999,2023-02-05,Active,2023-02-05,2023-05-18
+PROD0032,Helios L-Shape,Furniture,Sofas,Wakefit,69999,2022-01-15,Active,2022-01-15,2023-12-17
+PROD0033,Casablanca 3-Seater,Furniture,Sofas,Urban Ladder,79999,2023-09-27,Active,2023-09-27,2024-01-27
+PROD0034,Comfort 2-Seater,Furniture,Sofas,Pepperfry,58999,2022-11-18,Active,2022-11-18,2023-03-06
+PROD0035,Oakwood Dining Table,Furniture,Tables,Godrej Interio,39999,2023-10-08,Active,2023-10-08,2024-04-29
+PROD0036,Metro Coffee Table,Furniture,Tables,Home Centre,14999,2022-09-26,Active,2022-09-26,2024-09-15
+PROD0037,WorkPro Desk,Furniture,Tables,IKEA,24999,2021-08-07,Active,2021-08-07,2021-08-17
+PROD0038,Noire Wardrobe,Furniture,Wardrobes,Nilkamal,62999,2023-03-02,Active,2023-03-02,2024-10-24
+PROD0039,Classic 3-Door Wardrobe,Furniture,Wardrobes,Godrej Interio,69999,2023-01-22,Active,2023-01-22,2024-02-29
+PROD0040,Urban Sliding Wardrobe,Furniture,Wardrobes,HomeTown,58999,2023-01-22,Active,2023-01-22,2023-12-20
+PROD0041,UrbanCarry Backpack,Accessories,Bags,Skybags,2499,2024-06-07,Active,2024-06-07,2024-11-27
+PROD0042,Metro Sling Bag,Accessories,Bags,Wildcraft,2199,2022-12-18,Active,2022-12-18,2024-03-28
+PROD0043,Classic Leather Belt,Accessories,Belts,Hidesign,1799,2022-10-18,Active,2022-10-18,2024-05-23
+PROD0044,Formal Buckle Belt,Accessories,Belts,Allen Solly,1499,2023-06-02,Active,2023-06-02,2024-02-18
+PROD0045,Aviator Sunglasses,Accessories,Sunglasses,Ray-Ban,8999,2022-02-13,Active,2022-02-13,2022-09-25
+PROD0046,Wayfarer Sunglasses,Accessories,Sunglasses,Fastrack,2999,2024-04-16,Active,2024-04-16,2024-09-29
+PROD0047,Slim Wallet,Accessories,Wallets,Tommy Hilfiger,2199,2022-07-31,Active,2022-07-31,2022-12-27
+PROD0048,Classic Wallet,Accessories,Wallets,Levi's,1499,2024-05-06,Active,2024-05-06,2024-09-30
+PROD0049,Galaxy A54,Electronics,Smartphones,Samsung,16999,2022-09-17,Active,2022-09-17,2023-12-12
+PROD0050,iPhone 14,Electronics,Smartphones,Apple,62999,2022-08-03,Discontinued,2022-08-03,2024-04-17
+PROD0051,11R,Electronics,Smartphones,OnePlus,39999,2022-09-25,Discontinued,2022-09-25,2023-02-18
+PROD0052,13C,Electronics,Smartphones,Xiaomi,14999,2021-05-18,Active,2021-05-18,2022-02-16
+PROD0053,Inspiron 15,Electronics,Laptops,Dell,58999,2023-02-16,Discontinued,2023-02-16,2024-10-07
+PROD0054,Pavilion x360,Electronics,Laptops,HP,62999,2024-01-03,Active,2024-01-03,2024-10-08
+PROD0055,IdeaPad Slim,Electronics,Laptops,Lenovo,39999,2022-08-11,Active,2022-08-11,2023-07-05
+PROD0056,VivoBook 15,Electronics,Laptops,Asus,39999,2023-10-10,Active,2023-10-10,2024-04-19
+PROD0057,Galaxy Tab A8,Electronics,Tablets,Samsung,18999,2024-05-19,Active,2024-05-19,2024-08-10
+PROD0058,iPad 10th Gen,Electronics,Tablets,Apple,52999,2023-03-07,Active,2023-03-07,2024-01-27
+PROD0059,Tab M10,Electronics,Tablets,,14999,2021-12-07,Active,2021-12-07,2024-02-26
+PROD0060,OnePlus Pad Go,Electronics,Tablets,OnePlus,19999,2023-11-24,Active,2023-11-24,2023-12-13
+PROD0061,WH-1000XM5,Electronics,Headphones,Sony,34999,2021-03-26,Active,2021-03-26,2021-05-11
+PROD0062,Tour One,Electronics,Headphones,JBL,19999,2023-08-06,Active,2023-08-06,2024-01-04
+PROD0063,Rockerz 450,Electronics,Headphones,Boat,1499,2022-07-30,Active,2022-07-30,2022-09-05
+PROD0064,Buds Air3,Electronics,Headphones,Realme,1899,2021-12-14,Active,2021-12-14,2024-08-19
+PROD0065,Watch SE,Electronics,Smartwatches,Apple,29999,2022-06-06,Active,2022-06-06,2023-10-12
+PROD0066,Galaxy Watch6,Electronics,Smartwatches,Samsung,29999,2023-08-03,Active,2023-08-03,2023-10-25
+PROD0067,ColorFit Pro4,Electronics,Smartwatches,Noise,3499,2022-09-17,Active,2022-09-17,2023-02-23
+PROD0068,NoiseFit Halo,Electronics,Smartwatches,Noise,4999,2024-03-26,Active,2024-03-26,2024-07-08
+PROD0069,ErgoPlus Office Chair,Furniture,Chairs,Featherlite,8999,2021-12-29,Active,2021-12-29,2024-08-15
+PROD0070,Urban Mesh Chair,Furniture,Chairs,Green Soul,14999,2021-11-17,Active,2021-11-17,2024-10-27
+PROD0071,Executive Pro Chair,Furniture,Chairs,Durian,16999,2023-02-05,Active,2023-02-05,2023-07-12
+PROD0072,Helios L-Shape,Furniture,Sofas,Wakefit,58999,2022-01-15,Active,2022-01-15,2022-05-24
+PROD0073,Casablanca 3-Seater,Furniture,Sofas,Urban Ladder,62999,2023-09-27,Active,2023-09-27,2024-04-25
+PROD0074,Comfort 2-Seater,Furniture,Sofas,Pepperfry,62999,2022-11-18,Active,2022-11-18,2023-04-08
+PROD0075,Oakwood Dining Table,Furniture,Tables,Godrej Interio,44999,2023-10-08,Discontinued,2023-10-08,2024-03-16
+PROD0076,Metro Coffee Table,Furniture,Tables,Home Centre,16999,2022-09-26,Active,2022-09-26,2024-06-03
+PROD0077,WorkPro Desk,Furniture,Tables,IKEA,21999,2021-08-07,Active,2021-08-07,2023-12-10
+PROD0078,Noire Wardrobe,Furniture,Wardrobes,Nilkamal,58999,2023-03-02,Active,2023-03-02,2024-04-08
+PROD0079,Classic 3-Door Wardrobe,Furniture,Wardrobes,Godrej Interio,52999,2023-01-22,Active,2023-01-22,2023-08-31
+PROD0080,Urban Sliding Wardrobe,Furniture,Wardrobes,HomeTown,69999,2023-01-22,Active,2023-01-22,2023-10-13
+PROD0081,UrbanCarry Backpack,Accessories,Bags,Skybags,3499,2024-06-07,Active,2024-06-07,2024-10-16
+PROD0082,Metro Sling Bag,Accessories,Bags,Wildcraft,2199,2022-12-18,Discontinued,2022-12-18,2024-06-15
+PROD0083,Classic Leather Belt,Accessories,Belts,Hidesign,1499,2022-10-18,Active,2022-10-18,2024-02-09
+PROD0084,Formal Buckle Belt,Accessories,Belts,Allen Solly,1899,2023-06-02,Active,2023-06-02,2024-06-27
+PROD0085,Aviator Sunglasses,Accessories,Sunglasses,Ray-Ban,6499,2022-02-13,Active,2022-02-13,2022-11-27
+PROD0086,Wayfarer Sunglasses,Accessories,Sunglasses,Fastrack,2199,2024-04-16,Active,2024-04-16,2024-08-29
+PROD0087,Slim Wallet,Accessories,Wallets,Tommy Hilfiger,2499,2022-07-31,Active,2022-07-31,2023-10-27
+PROD0088,Classic Wallet,Accessories,Wallets,Levi's,2199,2024-05-06,Discontinued,2024-05-06,2024-09-15
+PROD0089,Galaxy A54,Electronics,Smartphones,Samsung,21999,2022-09-17,Active,2022-09-17,2023-06-06
+PROD0090,iPhone 14,Electronics,Smartphones,Apple,62999,2022-08-03,Active,2022-08-03,2023-06-10
+PROD0091,11R,Electronics,Smartphones,OnePlus,34999,2022-09-25,Active,2022-09-25,2022-11-22
+PROD0092,13C,Electronics,Smartphones,Xiaomi,16999,2021-05-18,Active,2021-05-18,2022-09-18
+PROD0093,Inspiron 15,Electronics,Laptops,Dell,44999,2023-02-16,Active,2023-02-16,2024-01-17
+PROD0094,Pavilion x360,Electronics,Laptops,HP,52999,2024-01-03,Active,2024-01-03,2024-02-17
+PROD0095,IdeaPad Slim,Electronics,Laptops,Lenovo,52999,2022-08-11,Active,2022-08-11,2023-06-12
+PROD0096,VivoBook 15,Electronics,Laptops,Asus,39999,2023-10-10,Active,2023-10-10,2024-11-01
+PROD0097,Galaxy Tab A8,Electronics,Tablets,Samsung,21999,2024-05-19,Active,2024-05-19,2024-11-20
+PROD0098,iPad 10th Gen,Electronics,Tablets,Apple,52999,2023-03-07,Active,2023-03-07,2024-04-30
+PROD0099,Tab M10,Electronics,Tablets,Lenovo,12999,2021-12-07,Active,2021-12-07,2022-03-07
+PROD0100,OnePlus Pad Go,Electronics,Tablets,OnePlus,19999,2023-11-24,Active,2023-11-24,2024-08-26
+PROD0101,WH-1000XM5,Electronics,Headphones,Sony,34999,2021-03-26,Active,2021-03-26,2023-07-24
+PROD0102,Tour One,Electronics,Headphones,JBL,18999,2023-08-06,Active,2023-08-06,2024-12-17
+PROD0103,Rockerz 450,Electronics,Headphones,Boat,1899,2022-07-30,Discontinued,2022-07-30,2023-02-11
+PROD0104,Buds Air3,Electronics,Headphones,Realme,1899,2021-12-14,Active,2021-12-14,2024-02-16
+PROD0105,Watch SE,Electronics,Smartwatches,Apple,34999,2022-06-06,Active,2022-06-06,2023-02-08
+PROD0106,Galaxy Watch6,Electronics,Smartwatches,Samsung,21999,2023-08-03,Active,2023-08-03,2023-09-10
+PROD0107,ColorFit Pro4,Electronics,Smartwatches,Noise,3999,2022-09-17,Active,2022-09-17,2024-07-01
+PROD0108,NoiseFit Halo,Electronics,Smartwatches,Noise,4999,2024-03-26,Active,2024-03-26,2024-09-28
+PROD0109,ErgoPlus Office Chair,Furniture,Chairs,Featherlite,7999,2021-12-29,Active,2021-12-29,2023-03-06
+PROD0110,Urban Mesh Chair,Furniture,Chairs,Green Soul,14999,2021-11-17,Active,2021-11-17,2023-04-16
+PROD0111,Executive Pro Chair,Furniture,Chairs,Durian,18999,2023-02-05,Active,2023-02-05,2023-11-17
+PROD0112,Helios L-Shape,Furniture,Sofas,Wakefit,69999,2022-01-15,Discontinued,2022-01-15,2023-03-24
+PROD0113,Casablanca 3-Seater,Furniture,Sofas,Urban Ladder,69999,2023-09-27,Active,2023-09-27,2024-06-16
+PROD0114,Comfort 2-Seater,Furniture,Sofas,Pepperfry,46999,2022-11-18,Active,2022-11-18,2022-12-11
+PROD0115,Oakwood Dining Table,Furniture,Tables,Godrej Interio,44999,2023-10-08,Discontinued,2023-10-08,2023-10-09
+PROD0116,Metro Coffee Table,Furniture,Tables,Home Centre,18999,2022-09-26,Active,2022-09-26,2024-06-26
+PROD0117,WorkPro Desk,Furniture,Tables,IKEA,21999,2021-08-07,Active,2021-08-07,2024-06-13
+PROD0118,Noire Wardrobe,Furniture,Wardrobes,Nilkamal,62999,2023-03-02,Active,2023-03-02,2024-08-01
+PROD0119,Classic 3-Door Wardrobe,Furniture,Wardrobes,Godrej Interio,58999,2023-01-22,Discontinued,2023-01-22,2023-09-28
+PROD0120,Urban Sliding Wardrobe,Furniture,Wardrobes,HomeTown,62999,2023-01-22,Active,2023-01-22,2024-10-26
+PROD0121,UrbanCarry Backpack,Accessories,Bags,Skybags,3499,2024-06-07,Active,2024-06-07,2024-09-11
+PROD0122,Metro Sling Bag,Accessories,Bags,Wildcraft,2999,2022-12-18,Active,2022-12-18,2023-02-06
+PROD0123,Classic Leather Belt,Accessories,Belts,Hidesign,2199,2022-10-18,Active,2022-10-18,2024-05-19
+PROD0124,Formal Buckle Belt,Accessories,Belts,Allen Solly,1899,2023-06-02,Discontinued,2023-06-02,2023-11-03
+PROD0125,Aviator Sunglasses,Accessories,Sunglasses,Ray-Ban,8999,2022-02-13,Active,2022-02-13,2022-11-16
+PROD0126,Wayfarer Sunglasses,Accessories,Sunglasses,Fastrack,3499,2024-04-16,Active,2024-04-16,2024-04-18
+PROD0127,Slim Wallet,Accessories,Wallets,Tommy Hilfiger,2199,2022-07-31,Active,2022-07-31,2024-01-02
+PROD0128,Classic Wallet,Accessories,Wallets,Levi's,2199,2024-05-06,Active,2024-05-06,2024-10-02
+PROD0129,Galaxy A54,Electronics,Smartphones,Samsung,16999,2022-09-17,Active,2022-09-17,2023-10-27
+PROD0130,iPhone 14,Electronics,Smartphones,Apple,79999,2022-08-03,Active,2022-08-03,2023-08-15
+PROD0131,11R,Electronics,Smartphones,OnePlus,46999,2022-09-25,Active,2022-09-25,2022-10-11
+PROD0132,13C,Electronics,Smartphones,Xiaomi,16999,2021-05-18,Active,2021-05-18,2024-09-08
+PROD0133,Inspiron 15,Electronics,Laptops,Dell,46999,2023-02-16,Active,2023-02-16,2023-04-15
+PROD0134,Pavilion x360,Electronics,Laptops,HP,58999,2024-01-03,Active,2024-01-03,2024-07-26
+PROD0135,IdeaPad Slim,Electronics,Laptops,Lenovo,46999,2022-08-11,Active,2022-08-11,2024-10-25
+PROD0136,VivoBook 15,Electronics,Laptops,Asus,44999,2023-10-10,Active,2023-10-10,2024-08-18
+PROD0137,Galaxy Tab A8,Electronics,Tablets,Samsung,16999,2024-05-19,Discontinued,2024-05-19,2024-10-06
+PROD0138,iPad 10th Gen,Electronics,Tablets,Apple,44999,2023-03-07,Discontinued,2023-03-07,2023-05-19
+PROD0139,Tab M10,Electronics,Tablets,Lenovo,8999,2021-12-07,Active,2021-12-07,2022-06-27
+PROD0140,OnePlus Pad Go,Electronics,Tablets,OnePlus,21999,2023-11-24,Active,2023-11-24,2024-10-24
+PROD0141,WH-1000XM5,Electronics,Headphones,Sony,26999,2021-03-26,Active,2021-03-26,2022-07-13
+PROD0142,Tour One,Electronics,Headphones,JBL,19999,2023-08-06,Active,2023-08-06,2024-12-13
+PROD0143,Rockerz 450,Electronics,Headphones,Boat,1899,2022-07-30,Discontinued,2022-07-30,2023-02-26
+PROD0144,Buds Air3,Electronics,Headphones,Realme,2999,2021-12-14,Active,2021-12-14,2022-02-09
+PROD0145,Watch SE,Electronics,Smartwatches,Apple,24999,2022-06-06,Active,2022-06-06,2023-02-03
+PROD0146,Galaxy Watch6,Electronics,Smartwatches,Samsung,21999,2023-08-03,Active,2023-08-03,2024-05-29
+PROD0147,ColorFit Pro4,Electronics,Smartwatches,Noise,2499,2022-09-17,Discontinued,2022-09-17,2023-06-29
+PROD0148,NoiseFit Halo,Electronics,Smartwatches,Noise,3999,2024-03-26,Active,2024-03-26,2024-08-08
+PROD0149,ErgoPlus Office Chair,Furniture,Chairs,Featherlite,7999,2021-12-29,Active,2021-12-29,2022-05-18
+PROD0150,Urban Mesh Chair,Furniture,Chairs,Green Soul,9999,2021-11-17,Active,2021-11-17,2023-04-23
+PROD0151,Executive Pro Chair,Furniture,Chairs,Durian,16999,2023-02-05,Discontinued,2023-02-05,2023-02-20
+PROD0152,Helios L-Shape,Furniture,Sofas,Wakefit,69999,2022-01-15,Active,2022-01-15,2023-06-29
+PROD0153,Casablanca 3-Seater,Furniture,Sofas,Urban Ladder,62999,2023-09-27,Active,2023-09-27,2023-12-07
+PROD0154,Comfort 2-Seater,Furniture,Sofas,Pepperfry,62999,2022-11-18,Active,2022-11-18,2024-03-30
+PROD0155,Oakwood Dining Table,Furniture,Tables,Godrej Interio,44999,2023-10-08,Active,2023-10-08,2024-02-09
+PROD0156,Metro Coffee Table,Furniture,Tables,Home Centre,12999,2022-09-26,Active,2022-09-26,2023-07-25
+PROD0157,WorkPro Desk,Furniture,Tables,IKEA,19999,2021-08-07,Active,2021-08-07,2024-09-06
+PROD0158,Noire Wardrobe,Furniture,Wardrobes,Nilkamal,62999,2023-03-02,Active,2023-03-02,2024-06-28
+PROD0159,Classic 3-Door Wardrobe,Furniture,Wardrobes,,58999,2023-01-22,Active,2023-01-22,2023-04-02
+PROD0160,Urban Sliding Wardrobe,Furniture,Wardrobes,HomeTown,62999,2023-01-22,Active,2023-01-22,2023-09-19
+PROD0161,UrbanCarry Backpack,Accessories,Bags,Skybags,2499,2024-06-07,Active,2024-06-07,2024-11-06
+PROD0162,Metro Sling Bag,Accessories,Bags,Wildcraft,2999,2022-12-18,Active,2022-12-18,2024-04-14
+PROD0163,Classic Leather Belt,Accessories,Belts,Hidesign,1899,2022-10-18,Active,2022-10-18,2023-10-11
+PROD0164,Formal Buckle Belt,Accessories,Belts,Allen Solly,1299,2023-06-02,Active,2023-06-02,2023-06-22
+PROD0165,Aviator Sunglasses,Accessories,Sunglasses,Ray-Ban,8999,2022-02-13,Active,2022-02-13,2024-07-21
+PROD0166,Wayfarer Sunglasses,Accessories,Sunglasses,Fastrack,3499,2024-04-16,Active,2024-04-16,2024-10-18
+PROD0167,Slim Wallet,Accessories,Wallets,Tommy Hilfiger,2499,2022-07-31,Active,2022-07-31,2024-08-12
+PROD0168,Classic Wallet,Accessories,Wallets,Levi's,2199,2024-05-06,Active,2024-05-06,2024-10-08
+PROD0169,Galaxy A54,Electronics,Smartphones,Samsung,21999,2022-09-17,Active,2022-09-17,2022-10-18
+PROD0170,iPhone 14,Electronics,Smartphones,Apple,62999,2022-08-03,Active,2022-08-03,2023-02-23
+PROD0171,11R,Electronics,Smartphones,OnePlus,39999,2022-09-25,Active,2022-09-25,2023-05-05
+PROD0172,13C,Electronics,Smartphones,Xiaomi,12999,2021-05-18,Active,2021-05-18,2022-06-12
+PROD0173,Inspiron 15,Electronics,Laptops,Dell,58999,2023-02-16,Active,2023-02-16,2023-11-04
+PROD0174,Pavilion x360,Electronics,Laptops,HP,69999,2024-01-03,Discontinued,2024-01-03,2024-09-08
+PROD0175,IdeaPad Slim,Electronics,Laptops,Lenovo,52999,2022-08-11,Active,2022-08-11,2024-11-06
+PROD0176,VivoBook 15,Electronics,Laptops,Asus,52999,2023-10-10,Active,2023-10-10,2023-10-17
+PROD0177,Galaxy Tab A8,Electronics,Tablets,Samsung,21999,2024-05-19,Active,2024-05-19,2024-12-23
+PROD0178,iPad 10th Gen,Electronics,Tablets,Apple,39999,2023-03-07,Active,2023-03-07,2024-06-13
+PROD0179,Tab M10,Electronics,Tablets,Lenovo,12999,2021-12-07,Active,2021-12-07,2024-06-29
+PROD0180,OnePlus Pad Go,Electronics,Tablets,OnePlus,21999,2023-11-24,Active,2023-11-24,2024-12-16
+PROD0181,WH-1000XM5,Electronics,Headphones,Sony,34999,2021-03-26,Active,2021-03-26,2024-10-31
+PROD0182,Tour One,Electronics,Headphones,JBL,14999,2023-08-06,Active,2023-08-06,2024-05-09
+PROD0183,Rockerz 450,Electronics,Headphones,Boat,1499,2022-07-30,Active,2022-07-30,2023-08-04
+PROD0184,Buds Air3,Electronics,Headphones,Realme,2499,2021-12-14,Active,2021-12-14,2022-04-08
+PROD0185,Watch SE,Electronics,Smartwatches,Apple,34999,2022-06-06,Active,2022-06-06,2022-11-22
+PROD0186,Galaxy Watch6,Electronics,Smartwatches,Samsung,21999,2023-08-03,Active,2023-08-03,2024-03-08
+PROD0187,ColorFit Pro4,Electronics,Smartwatches,Noise,2999,2022-09-17,Active,2022-09-17,2024-11-12
+PROD0188,NoiseFit Halo,Electronics,Smartwatches,Noise,4999,2024-03-26,Active,2024-03-26,2024-07-17
+PROD0189,ErgoPlus Office Chair,Furniture,Chairs,Featherlite,8999,2021-12-29,Active,2021-12-29,2023-11-21
+PROD0190,Urban Mesh Chair,Furniture,Chairs,Green Soul,8999,2021-11-17,Discontinued,2021-11-17,2024-08-02
+PROD0191,Executive Pro Chair,Furniture,Chairs,Durian,16999,2023-02-05,Active,2023-02-05,2024-10-12
+PROD0192,Helios L-Shape,Furniture,Sofas,Wakefit,62999,2022-01-15,Active,2022-01-15,2022-01-16
+PROD0193,Casablanca 3-Seater,Furniture,Sofas,Urban Ladder,62999,2023-09-27,Active,2023-09-27,2024-04-12
+PROD0194,Comfort 2-Seater,Furniture,Sofas,Pepperfry,58999,2022-11-18,Active,2022-11-18,2023-01-06
+PROD0195,Oakwood Dining Table,Furniture,Tables,Godrej Interio,44999,2023-10-08,Active,2023-10-08,2024-05-03
+PROD0196,Metro Coffee Table,Furniture,Tables,Home Centre,12999,2022-09-26,Active,2022-09-26,2022-12-20
+PROD0197,WorkPro Desk,Furniture,Tables,IKEA,18999,2021-08-07,Active,2021-08-07,2021-09-21
+PROD0198,Noire Wardrobe,Furniture,Wardrobes,Nilkamal,58999,2023-03-02,Active,2023-03-02,2024-04-15
+PROD0199,Classic 3-Door Wardrobe,Furniture,Wardrobes,Godrej Interio,58999,2023-01-22,Active,2023-01-22,2024-04-15
+PROD0200,Urban Sliding Wardrobe,Furniture,Wardrobes,HomeTown,62999,2023-01-22,Active,2023-01-22,2024-03-07
+PROD0201,UrbanCarry Backpack,Accessories,Bags,Skybags,3499,2024-06-07,Active,2024-06-07,2024-08-03
+PROD0202,Metro Sling Bag,Accessories,Bags,Wildcraft,2199,2022-12-18,Active,2022-12-18,2024-11-02
