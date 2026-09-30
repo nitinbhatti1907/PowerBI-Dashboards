@@ -58,15 +58,6 @@ The ADF pipeline copies the three retail CSV files from the `input` folder to th
 | `products.csv` | **202** | Product, category, subcategory, brand and pricing |
 | `sales.csv` | **97,500** | Order-level sales, quantity, discounts and net sales |
 
-### Customers
-`CustomerID`, `CustomerName`, `City`, `State`, `Region`, `CustomerSegment`, `JoinDate`, `Status`, `CreatedDate`, `UpdatedDate`
-
-### Products
-`ProductID`, `ProductName`, `Category`, `SubCategory`, `Brand`, `UnitPrice`, `LaunchDate`, `Status`, `CreatedDate`, `UpdatedDate`
-
-### Sales
-`OrderID`, `OrderDate`, `CustomerID`, `ProductID`, `Quantity`, `Revenue`, `Discount`, `PaymentMethod`, `NetSales`, `CreatedDate`
-
 ## 🔄 Power BI Transformation & Modeling
 
 After connecting Power BI to the ADLS Gen2 output layer:
@@ -131,7 +122,7 @@ Retail-Insights-Azure-ADF/
 ├── Images/
 │   └── Home.png
 └── PowerBI/
-    └── Retail_Insight_Dashboard.pbix
+    └── Sales Insight Dashboard.pbix
 ```
 
 ## 🚀 Skills Demonstrated
