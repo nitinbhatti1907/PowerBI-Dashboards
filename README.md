@@ -2,13 +2,32 @@
 
 A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, and Azure cloud projects** built to demonstrate end-to-end analytical workflows — from source data and pipelines to modeling, DAX, KPIs, and interactive dashboards.
 
-**Core Stack:** Power BI · SQL · DAX · Power Query · Azure Data Factory · ADLS Gen2 · Azure Storage · Data Modeling
+**Core Stack:** Power BI · SQL · DAX · Power Query · Azure Synapse Analytics · PySpark · Azure Data Factory · ADLS Gen2 · Parquet · Data Modeling
 
 > Projects are listed **newest first**.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏗️ [Retail Transaction Analytics | Azure Synapse + PySpark + Power BI](./Azure-Synapse-Analytics)
+
+**Focus:** Medallion architecture + PySpark data engineering + business intelligence  
+**Tech:** Azure Synapse Analytics · PySpark · ADLS Gen2 · Parquet · Power BI · DAX
+
+- Built an end-to-end **Bronze → Silver → Gold** analytics workflow using Azure Synapse Spark.
+- Applied PySpark data-quality rules to filter purchase events, handle null/blank customer IDs, standardize fields, and enforce analytical data types.
+- Created a **single BI-ready Gold Parquet table** supporting analysis across date, customer, product, category, location, and payment method.
+- Developed an interactive Power BI dashboard with **revenue, purchases, average purchase value, customers, trends, rankings, and filter/reset interactions**.
+
+<a href="./Azure-Synapse-Analytics">
+  <img width="1255" alt="Retail Transaction Analytics Dashboard" src="./Azure-Synapse-Analytics/Images/Home.png" />
+</a>
+
+**[View full project →](./Azure-Synapse-Analytics)**
+
+---
+
 
 ### ☁️ [Retail Insights | Azure Data Factory + ADLS Gen2 + Power BI](./Retail-Insights-Azure-ADF)
 
@@ -87,7 +106,7 @@ A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, and Azure 
 | **Business Intelligence** | Power BI Desktop, Dashboard Development, KPI Reporting, Data Storytelling |
 | **Analytics & Modeling** | DAX, Power Query, Data Modeling, Relationships, Trend Analysis, Segmentation |
 | **SQL & Databases** | SQL, Microsoft SQL Server, SSMS, Aggregations, Joins, KPI Validation |
-| **Cloud & Data Engineering** | Azure Data Factory, ADLS Gen2, Azure Storage, ETL Pipelines, Cloud Data Integration |
+| **Cloud & Data Engineering** | Azure Synapse Analytics, PySpark, Azure Data Factory, ADLS Gen2, Parquet, ETL Pipelines, Medallion Architecture |
 | **Data Preparation** | Data Cleaning, Type Conversion, Validation, Transformation, Source-to-report workflows |
 | **Business Analysis** | Revenue Analysis, Product Performance, Customer Analysis, Operational & Financial KPIs |
 
@@ -100,7 +119,7 @@ Across these projects, I have practiced how to:
 - Translate business questions into measurable **KPIs and analytical requirements**.
 - Build **SQL queries** for aggregation, trend analysis, ranking, and source validation.
 - Design interactive **Power BI dashboards** with DAX measures, slicers, relationships, and data models.
-- Build a basic **Azure cloud ingestion pipeline** using ADF and ADLS Gen2.
+- Build **Azure data pipelines and medallion workflows** using Synapse, PySpark, ADF, ADLS Gen2, and Parquet.
 - Prepare and transform data using **Power Query**.
 - Validate dashboard outputs against underlying data and communicate insights clearly.
 
