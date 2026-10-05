@@ -1,14 +1,28 @@
 # 📊 Data Analytics & Power BI Portfolio
 
-A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, and Azure cloud projects** built to demonstrate end-to-end analytical workflows — from source data and pipelines to modeling, DAX, KPIs, and interactive dashboards.
+A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, Cloud, ETL, and Data Warehousing projects** built to demonstrate end-to-end analytical workflows — from source systems and pipelines to modeling, DAX, KPIs, deployment, and interactive dashboards.
 
-**Core Stack:** Power BI · SQL · DAX · Power Query · Azure Synapse Analytics · PySpark · Azure Data Factory · ADLS Gen2 · Parquet · Data Modeling
+**Core Stack:** Power BI · SQL · DAX · Power Query · SQL Server · SSIS · SSISDB · SQL Server Agent · Azure Synapse Analytics · PySpark · Azure Data Factory · ADLS Gen2 · Parquet · Data Modeling
 
 > Projects are listed **newest first**.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏢 [Financial Data Warehouse | SQL Server + SSIS + Power BI](./Financial-Data-Warehouse-SSIS-PowerBI)
+
+**Focus:** Multi-source ETL + SQL Server data warehousing + SSIS deployment + business intelligence  
+**Tech:** SQL Server 2025 · SSIS · Visual Studio · SSISDB · SQL Server Agent · Excel · CSV · Power BI · DAX
+
+- Integrated **1,000,000 financial transactions** with external **Excel exchange rates** and **CSV supplier master data** through SSIS.
+- Built lookup, currency-standardization, supplier-enrichment, exception-handling, and warehouse-loading logic in SSIS.
+- Parameterized the project and deployed it through **SSISDB** using a **Dev environment**, then validated execution through the **FinancialDataWarehouse SQL Server Agent job**.
+- Built a Power BI reporting layer with **$5.61B standardized transaction value, 1M transactions, 1K customers, supplier analysis, currency mix, customer rankings, and monthly trends**.
+
+**[View full project →](./Financial-Data-Warehouse-SSIS-PowerBI)**
+
+---
 
 ### 🏗️ [Retail Transaction Analytics | Azure Synapse + PySpark + Power BI](./Azure-Synapse-Analytics)
 
@@ -105,7 +119,8 @@ A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, and Azure 
 |---|---|
 | **Business Intelligence** | Power BI Desktop, Dashboard Development, KPI Reporting, Data Storytelling |
 | **Analytics & Modeling** | DAX, Power Query, Data Modeling, Relationships, Trend Analysis, Segmentation |
-| **SQL & Databases** | SQL, Microsoft SQL Server, SSMS, Aggregations, Joins, KPI Validation |
+| **SQL & Databases** | SQL, Microsoft SQL Server, SSMS, Data Warehousing, Aggregations, Joins, KPI Validation |
+| **ETL & Orchestration** | SSIS, SSISDB, SQL Server Agent, Parameters, Environment Configuration, Lookup & Error Handling |
 | **Cloud & Data Engineering** | Azure Synapse Analytics, PySpark, Azure Data Factory, ADLS Gen2, Parquet, ETL Pipelines, Medallion Architecture |
 | **Data Preparation** | Data Cleaning, Type Conversion, Validation, Transformation, Source-to-report workflows |
 | **Business Analysis** | Revenue Analysis, Product Performance, Customer Analysis, Operational & Financial KPIs |
@@ -117,8 +132,9 @@ A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, and Azure 
 Across these projects, I have practiced how to:
 
 - Translate business questions into measurable **KPIs and analytical requirements**.
-- Build **SQL queries** for aggregation, trend analysis, ranking, and source validation.
+- Build **SQL queries and warehouse reporting layers** for aggregation, trend analysis, ranking, and source validation.
 - Design interactive **Power BI dashboards** with DAX measures, slicers, relationships, and data models.
+- Build and deploy **SSIS ETL workflows** using multi-source integration, parameters, SSISDB environments, and SQL Server Agent execution.
 - Build **Azure data pipelines and medallion workflows** using Synapse, PySpark, ADF, ADLS Gen2, and Parquet.
 - Prepare and transform data using **Power Query**.
 - Validate dashboard outputs against underlying data and communicate insights clearly.
@@ -129,10 +145,11 @@ Across these projects, I have practiced how to:
 
 Each project folder contains its own documentation and available supporting assets such as:
 
-- Power BI report files (`.pbix`)
-- Source datasets
-- SQL scripts where applicable
-- Dashboard screenshots
+- Power BI report files where available
+- Source/sample datasets
+- SQL scripts
+- ETL/data-engineering documentation
+- Dashboard and pipeline screenshots where available
 - Project-specific README documentation
 
 Open any project above to see its architecture, business questions, workflow, and implementation details.
