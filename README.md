@@ -20,6 +20,10 @@ A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, Cloud, ETL
 - Parameterized the project and deployed it through **SSISDB** using a **Dev environment**, then validated execution through the **FinancialDataWarehouse SQL Server Agent job**.
 - Built a Power BI reporting layer with **$5.61B standardized transaction value, 1M transactions, 1K customers, supplier analysis, currency mix, customer rankings, and monthly trends**.
 
+<a href="./Financial-Data-Warehouse-SSIS-PowerBI">
+  <img width="1255" alt="Financial Data Warehouse Analytics Dashboard" src="./Financial-Data-Warehouse-SSIS-PowerBI/Images/Dashboard.png" />
+</a>
+
 **[View full project →](./Financial-Data-Warehouse-SSIS-PowerBI)**
 
 ---
