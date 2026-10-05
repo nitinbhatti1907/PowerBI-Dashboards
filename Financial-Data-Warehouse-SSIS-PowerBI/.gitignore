@@ -1,0 +1,16 @@
+# Visual Studio / SSIS
+.vs/
+bin/
+obj/
+*.user
+*.dtproj.user
+
+# SQL Server backups
+*.bak
+
+# Power BI temporary files
+~$*.pbix
+
+# OS
+Thumbs.db
+.DS_Store
