@@ -2,6 +2,12 @@
 
 An end-to-end Microsoft data platform portfolio project that integrates **SQL Server, Excel, and CSV data** through **SQL Server Integration Services (SSIS)**, loads an analytical SQL Server warehouse, deploys the package through **SSISDB**, validates execution with **SQL Server Agent**, and exposes a BI-ready reporting layer to **Power BI**.
 
+## 📊 Dashboard Preview
+
+<a href="./Images/Dashboard.png">
+  <img width="1255" alt="Financial Data Warehouse Analytics Dashboard" src="./Images/Dashboard.png" />
+</a>
+
 ## 📊 Final Dashboard KPIs
 
 | KPI | Result |
@@ -166,6 +172,44 @@ The final Power BI report contains:
 
 Use [SQL/Validation_Queries.sql](./SQL/Validation_Queries.sql) to validate the warehouse and Power BI KPIs directly against SQL Server.
 
+## 🖼️ Project Screenshots
+
+### SSIS Control Flow
+
+<a href="./Images/Control%20Flow.png">
+  <img width="1255" alt="SSIS Control Flow" src="./Images/Control%20Flow.png" />
+</a>
+
+### Customer Transactions Data Flow
+
+<a href="./Images/Data%20Flow%20-%20Customer%20Transactions.png">
+  <img width="1255" alt="SSIS Customer Transactions Data Flow" src="./Images/Data%20Flow%20-%20Customer%20Transactions.png" />
+</a>
+
+### Exchange Rates Data Flow
+
+<a href="./Images/Data%20Flow%20-%20Exchange%20Rates.png">
+  <img width="1255" alt="SSIS Exchange Rates Data Flow" src="./Images/Data%20Flow%20-%20Exchange%20Rates.png" />
+</a>
+
+### Suppliers Data Flow
+
+<a href="./Images/Data%20Flow%20-%20Suppliers.png">
+  <img width="1255" alt="SSIS Suppliers Data Flow" src="./Images/Data%20Flow%20-%20Suppliers.png" />
+</a>
+
+### SQL Server Agent Job
+
+<a href="./Images/SQL%20Agent%20job.png">
+  <img width="1255" alt="SQL Server Agent FinancialDataWarehouse Job" src="./Images/SQL%20Agent%20job.png" />
+</a>
+
+### Final Power BI Dashboard
+
+<a href="./Images/Dashboard.png">
+  <img width="1255" alt="Final Power BI Financial Data Warehouse Dashboard" src="./Images/Dashboard.png" />
+</a>
+
 ## 📁 Repository Structure
 
 ```text
@@ -179,11 +223,23 @@ Financial-Data-Warehouse-SSIS-PowerBI/
 │   ├── PowerBI_View.sql
 │   └── Validation_Queries.sql
 ├── SSIS/
+│   ├── FinancialTransactions.dtsx
+│   ├── Retail_ETL_SSIS.dtproj
+│   ├── Project.params
+│   ├── financial_data_warehouse.conmgr
+│   ├── financial_transactions_db.conmgr
 │   ├── README.md
 │   └── Parameters.md
 ├── PowerBI/
+│   ├── Financial_Data_Warehouse_Analytics.pbix
 │   └── README.md
 ├── Images/
+│   ├── Dashboard.png
+│   ├── Control Flow.png
+│   ├── Data Flow - Customer Transactions.png
+│   ├── Data Flow - Exchange Rates.png
+│   ├── Data Flow - Suppliers.png
+│   ├── SQL Agent job.png
 │   └── README.md
 └── SQL_Backups/
     └── README.md
