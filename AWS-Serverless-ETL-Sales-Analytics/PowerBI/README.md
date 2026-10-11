@@ -56,4 +56,4 @@ The one-page report includes:
 - Top 5 Customers by Revenue
 - Date, Category, and Product slicers
 
-The PBIX file is included as `AWS_Sales_Analytics_Dashboard.pbix`.
+The PBIX file is included as [`AWS Sales Analytics Dashboard.pbix`](./AWS%20Sales%20Analytics%20Dashboard.pbix).
