@@ -226,7 +226,7 @@ AWS-Serverless-ETL-Sales-Analytics/
 ├── Lambda/
 │   └── lambda_function.py
 └── PowerBI/
-    ├── AWS_Sales_Analytics_Dashboard.pbix
+    ├── AWS Sales Analytics Dashboard.pbix
     └── README.md
 ```
 
