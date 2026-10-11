@@ -2,13 +2,31 @@
 
 A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, Cloud, ETL, and Data Warehousing projects** built to demonstrate end-to-end analytical workflows — from source systems and pipelines to modeling, DAX, KPIs, deployment, and interactive dashboards.
 
-**Core Stack:** Power BI · SQL · DAX · Power Query · SQL Server · SSIS · SSISDB · SQL Server Agent · Azure Synapse Analytics · PySpark · Azure Data Factory · ADLS Gen2 · Parquet · Data Modeling
+**Core Stack:** Power BI · SQL · DAX · Power Query · SQL Server · SSIS · SSISDB · SQL Server Agent · AWS S3 · AWS Lambda · AWS Glue · Amazon Athena · Python · Parquet · Azure Synapse Analytics · PySpark · Azure Data Factory · ADLS Gen2 · Data Modeling
 
 > Projects are listed **newest first**.
 
 ---
 
 ## 🚀 Featured Projects
+
+### ☁️ [AWS Serverless ETL & Sales Analytics | S3 + Lambda + Glue + Athena + Power BI](./AWS-Serverless-ETL-Sales-Analytics)
+
+**Focus:** Event-driven serverless ETL + S3 data lake + SQL analytics + Power BI  
+**Tech:** Amazon S3 · AWS Lambda · Python · pandas · PyArrow · AWS Glue · Amazon Athena · Parquet · IAM · ODBC · Power BI · DAX
+
+- Built an event-driven pipeline that transforms nested JSON orders from **Amazon S3** into analytics-ready **Parquet** using **AWS Lambda, pandas, and PyArrow**.
+- Automated schema discovery with an **AWS Glue Crawler** and queried the data lake through **Amazon Athena**.
+- Diagnosed duplicate Parquet outputs using Athena's hidden **$path** column and restored the expected **23 flattened order-product rows**.
+- Connected Athena to Power BI through the **Amazon Athena ODBC driver** and built a dashboard with **$1.67K revenue, 12 orders, 9 customers, $138.75 average order value**, category analysis, product rankings, customer rankings, and date/product/category filters.
+
+<a href="./AWS-Serverless-ETL-Sales-Analytics">
+  <img width="1255" alt="AWS Sales Analytics Dashboard" src="./AWS-Serverless-ETL-Sales-Analytics/Images/Dashboard.png" />
+</a>
+
+**[View full project →](./AWS-Serverless-ETL-Sales-Analytics)**
+
+---
 
 ### 🏢 [Financial Data Warehouse | SQL Server + SSIS + Power BI](./Financial-Data-Warehouse-SSIS-PowerBI)
 
@@ -125,7 +143,7 @@ A portfolio of hands-on **Business Intelligence, Data Analytics, SQL, Cloud, ETL
 | **Analytics & Modeling** | DAX, Power Query, Data Modeling, Relationships, Trend Analysis, Segmentation |
 | **SQL & Databases** | SQL, Microsoft SQL Server, SSMS, Data Warehousing, Aggregations, Joins, KPI Validation |
 | **ETL & Orchestration** | SSIS, SSISDB, SQL Server Agent, Parameters, Environment Configuration, Lookup & Error Handling |
-| **Cloud & Data Engineering** | Azure Synapse Analytics, PySpark, Azure Data Factory, ADLS Gen2, Parquet, ETL Pipelines, Medallion Architecture |
+| **Cloud & Data Engineering** | AWS S3, AWS Lambda, AWS Glue, Amazon Athena, IAM, ODBC, Azure Synapse Analytics, PySpark, Azure Data Factory, ADLS Gen2, Parquet, ETL Pipelines, Medallion Architecture |
 | **Data Preparation** | Data Cleaning, Type Conversion, Validation, Transformation, Source-to-report workflows |
 | **Business Analysis** | Revenue Analysis, Product Performance, Customer Analysis, Operational & Financial KPIs |
 
@@ -139,6 +157,7 @@ Across these projects, I have practiced how to:
 - Build **SQL queries and warehouse reporting layers** for aggregation, trend analysis, ranking, and source validation.
 - Design interactive **Power BI dashboards** with DAX measures, slicers, relationships, and data models.
 - Build and deploy **SSIS ETL workflows** using multi-source integration, parameters, SSISDB environments, and SQL Server Agent execution.
+- Build **AWS serverless ETL pipelines** using S3, Lambda, Glue, Athena, Parquet, IAM, and ODBC.
 - Build **Azure data pipelines and medallion workflows** using Synapse, PySpark, ADF, ADLS Gen2, and Parquet.
 - Prepare and transform data using **Power Query**.
 - Validate dashboard outputs against underlying data and communicate insights clearly.
